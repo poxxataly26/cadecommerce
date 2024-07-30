@@ -1,5 +1,7 @@
 # CadEcommerce
 
+## Imagens da Aplicação
+
 ## Projeto de Cadastro em PHP
 
 Este repositório contém o código-fonte para uma aplicação web simples de cadastro de produtos, desenvolvida em PHP. A aplicação permite a criação de novos produtos, com informações como nome, descrição, estoque, preço, categoria e marca.
@@ -31,4 +33,10 @@ A aplicação utiliza um banco de dados MySQL para armazenar os dados dos produt
 * PHP: Linguagem de programação utilizada para o desenvolvimento da aplicação.
 * MySQL: Sistema gerenciador de banco de dados utilizado para armazenar os dados dos produtos.
 * HTML: Linguagem de marcação utilizada para a construção das páginas da aplicação.
-* CSS: Linguagem de estilo utilizada para a formatação das páginas da aplicação.
+* CSS: Linguagem de estilo utilizada para estilizar as páginas da aplicação.
+
+## Autora
+
+[Talyta](https://github.com/poxxataly26/cadecommerce) 
+
+<img src="" width="100px">
