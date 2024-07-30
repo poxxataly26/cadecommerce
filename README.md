@@ -39,4 +39,4 @@ A aplicação utiliza um banco de dados MySQL para armazenar os dados dos produt
 
 [Talyta](https://github.com/poxxataly26/cadecommerce) 
 
-<img src="" width="100px">
+<img src="https://github.com/poxxataly26/cadecommerce/blob/main/img/Foto.jpg" width="100px">
