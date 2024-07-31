@@ -58,17 +58,3 @@ A aplicação utiliza um banco de dados MySQL para armazenar os dados dos produt
 [Talyta](https://github.com/poxxataly26/cadecommerce) 
 
 <img src="https://github.com/poxxataly26/cadecommerce/blob/main/img/Foto.jpg" width="100px">
-
-Imagens do Banco de Dados
-
-Imagem da tabela categoria
-Imagem da tabela marca
-Imagem da tabela produtos
-Referência
-
-Documentação oficial do PHP
-Observações
-
-O código-fonte do projeto está disponível neste repositório.
-O arquivo README.md contém uma descrição completa da aplicação e dos métodos PHP utilizados.
-As imagens do banco de dados foram geradas utilizando o phpMyAdmin.
