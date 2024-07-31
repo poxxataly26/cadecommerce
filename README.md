@@ -14,6 +14,10 @@
 
 ![image info](https://github.com/poxxataly26/cadecommerce/blob/main/img/Cadastro%20Marca.png)
 
+#### Marca Cadastrada 
+
+![image info](https://github.com/poxxataly26/cadecommerce/blob/main/img/Marca.png)
+
 ## Projeto de Cadastro em PHP
 
 Este repositório contém o código-fonte para uma aplicação web simples de cadastro de produtos, desenvolvida em PHP. A aplicação permite a criação de novos produtos, com informações como nome, descrição, estoque, preço, categoria e marca.
